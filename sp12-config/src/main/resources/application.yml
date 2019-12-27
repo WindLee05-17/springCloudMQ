@@ -6,7 +6,7 @@ cloud:
     config:
       server:
         git:
-          uri: https://github.com/WindLee05-17/sp-config
+          uri: https://github.com/WindLee05-17/springCloudMQ.git
           searchPaths: config
 rabbitmq:
   host: 192.168.137.128
